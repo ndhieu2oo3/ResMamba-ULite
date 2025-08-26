@@ -11,11 +11,11 @@ The field of biomedical image segmentation has been a highly critical topic in d
 
 ![Results Comparison on DSB 2018 dataset](./assets/dsb_result.png)
 
-### Table 1: Quantitative Results on ISIC 2018
+### Table 2: Quantitative Results on ISIC 2018
 
 ![Results Comparison on ISIC 2018 dataset](./assets/isic_result.png)
 
-### Table 2: Quantitative Results on Sunnybrook
+### Table 3: Quantitative Results on Sunnybrook
 
 ![Results Comparison on Sunnybrook dataset](./assets/sunnybrook_result.png)
 

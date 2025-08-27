@@ -15,7 +15,7 @@ The field of biomedical image segmentation has been a highly critical topic in d
 We evaluate ResMambaULite on three widely-used segmentation datasets:
 
 - **Data Science Bowl 2018**: [Kaggle – 2018 Data Science Bowl Datasets](https://www.kaggle.com/competitions/data-science-bowl-2018)
-- **ISIC 2018**: [https://challenge.isic-archive.com/](https://challenge.isic-archive.com/)
+- **ISIC 2018**: [The MILK10k Challenge](https://challenge.isic-archive.com/data/#2018)
 - **Sunnybrook**: [Cardiac Atlas Project – Sunnybrook Cardiac Data](https://www.cardiacatlas.org/sunnybrook-cardiac-data/)
 
 ## Results Summary
